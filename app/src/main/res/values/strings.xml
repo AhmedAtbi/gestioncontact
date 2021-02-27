@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gestion_Contact</string>
+    <string name="ajout_page">Add Contact</string>
+    <string name="edit_page">Edit Contact</string>
 </resources>
